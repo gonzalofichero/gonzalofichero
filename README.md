@@ -1,10 +1,15 @@
-### Hi there 👋, my name is Gonzalo
-#### Social Science code monkey
+## Hi there 👋, I'm Gonzalo
+### Social Science code monkey
+
 Currently, part of the European Doctoral School of Demography (2020-2021), working on high skill migration in Barcelona.
 
-Looking for new challenges (and a Ph.D. program that wants to adopt me).
+Looking for new challenges (and a Ph.D. program that wants to adopt me :eyes: ).
 
-Skills: R / Sociology / Demography / Data Science
+## Skills: 
+* R
+* Data Science
+* Sociology
+* Demography
 
 - 🔭 I’m currently working on understanding how pull factors from the different Barcelona's neighborhoods attract high skill migrants, by using classic Demography data and new digital sources. 
 - 🌱 I’m currently learning lots of Demographic Theory. 
