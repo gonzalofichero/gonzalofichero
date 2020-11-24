@@ -7,10 +7,7 @@ Looking for new challenges (and a Ph.D. program that wants to adopt me :eyes: ).
 
 
 ## Skills: 
-* R
-* Data Science
-* Sociology
-* Demography
+ R / Data Science / Sociology / Demography
 
 
 - 🔭 I’m currently working on understanding how pull factors from the different Barcelona's neighborhoods attract high skill migrants, by using classic Demography data and new digital sources. 
