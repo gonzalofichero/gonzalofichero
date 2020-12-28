@@ -12,7 +12,6 @@ Looking for new challenges (and a Ph.D. program that wants to adopt me :eyes: ).
 ## Others:
 
 - 🔭 I’m currently working on understanding how pull factors from the different Barcelona's neighborhoods attract high skill migrants, by using classic Demography data and new digital sources. 
-- 🌱 I’m currently learning lots of Demographic Theory. 
 - ⚡ Fun fact: I'm a chess nerd. I've been doing some Analytics to me own games to see how I can improve. There's a repository in here where you can check my analysis. 
 
 
