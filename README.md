@@ -1,9 +1,11 @@
 ## Hi there 👋, I'm Gonzalo
 ### Social Science code monkey
 
-Currently, part of the European Doctoral School of Demography (2020-2021), working on high skilled migration in Barcelona.
+Currently, part of the European Doctoral School of Demography (2020-2021), working on high-skilled migration in Barcelona.
 
-Always looking for new challenges. Coming soon: I'll try to solve challenges at the Centre d'Estudis Demogràfics (CED-UAB).
+Since September 2021, doing PhD at Centre d'Estudis Demogràfics (CED-UAB).
+
+Always looking for new challenges.
 
 
 ## Skills: 
