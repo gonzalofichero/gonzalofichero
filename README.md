@@ -3,10 +3,6 @@
 
 Currently, part of the European Doctoral School of Demography (2020-2021), working on high-skilled migration in Barcelona.
 
-Since September 2021, doing PhD at Centre d'Estudis Demogràfics (CED-UAB).
-
-Always looking for new challenges.
-
 
 ## Skills: 
  R / Data Science / Sociology / Demography
